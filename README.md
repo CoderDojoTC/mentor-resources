@@ -1,5 +1,5 @@
 # mentor-resources
-Information for new and experienced CoderDojoTC mentors
+**Information for new and experienced CoderDojoTC mentors**
 
 This is a work in progress (3/2015)  Soon it will include:
 
