@@ -26,7 +26,7 @@ Note:  this is all still a work in progress, so some of the repositories don't y
   * [Kids Ruby](https://github.com/CoderDojoTC/kidsruby)
 * [Finch Robots](https://github.com/CoderDojoTC/robots)   
   * [Finch Read The Docs files](http://finch-robots.readthedocs.org/en/latest/)
-* Games/Graphics/Unity
+* [Games/Graphics/Unity](https://github.com/CoderDojoTC/games-graphics-Unity)
 * [Web](https://github.com/CoderDojoTC/web)
 * [Linux](https://github.com/CoderDojoTC/linux)
  
