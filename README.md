@@ -18,7 +18,7 @@ Note:  this is all still a work in progress, so some of the repositories don't y
 **CoderDojoTC code groups:**
 
 * [Scratch](https://github.com/CoderDojoTC/scratch)
-* AppInventor
+* [AppInventor](https://github.com/CoderDojoTC/appinventor)
 * [Arduino](https://github.com/CoderDojoTC/arduino)
 * [Python-Minecraft](https://github.com/CoderDojoTC/python-minecraft)   
   * [Python-Minecraft Read The Docs](http://python-minecraft.readthedocs.org/en/latest/)
