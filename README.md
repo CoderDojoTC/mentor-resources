@@ -8,7 +8,7 @@ Check out the [CoderDojoTC website](http://www.coderdojotc.org) for lots of usef
 
 Here are some tips on mentoring kids.
 
-Here's a wiki page with information about CoderDojoTC events -- timing, internet access, loaner laptops, mentor backup, etc. (work in progress)
+Here's a wiki page with [information about CoderDojoTC events](https://github.com/CoderDojoTC/mentor-resources/wiki/Info-on-CoderDojoTC-events) -- timing, internet access, loaner laptops, mentor backup, etc. (work in progress)
 
 
 You can find information about each CoderDojoTC code group by linking to the repositories listed below.  You should also look in the wiki for each code group (link to that inside the code group, from the right hand column.)  Some of the code groups also have information nicely formatted in another website called Read the Docs;  see links below.  
