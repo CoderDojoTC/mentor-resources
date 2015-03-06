@@ -1,8 +1,8 @@
 # mentor-resources
-**Information for new and experienced CoderDojoTC mentors**
+**Information for new and experienced CoderDojo Twin Cities mentors**
 
 
-Thank you very much for volunteering to mentor young coders at CoderDojo Twin Cities!
+Thank you very much for volunteering to mentor young coders at CoderDojoTC!
 
 Check out the [CoderDojoTC website](http://www.coderdojotc.org) for lots of useful information including [FAQs for mentors](http://www.coderdojotc.org/faq/#mentoring).  CoderDojo is an international movement of coding clubs for kids;  there's more information on the global organization [here](https://coderdojo.com/).  CoderDojoTC was launched on April 13, 2013 and is one of the largest CoderDojos in the world.  CoderDojoTC has helped inspire 5 other CoderDojos in Minnesota:  Katie CoderDojo, Tonka CoderDojo, SW CoderDojo, Northfield CoderDojo and So MN CoderDojo. 
 
