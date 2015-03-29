@@ -1,32 +1,19 @@
 # CoderDojoTC Mentor Resources
 
-## About [CoderDojoTC][]
-
-**[CoderDojo](http://www.coderdojo.com)** is an international movement to create free coding clubs for kids. [CoderDojoTC][] launched on April 13, 2013 and has grown to be among the largest CoderDojos in the world. We’ve helped inspire & supported six independent chapters in Minnesota and counting:
-
- 1. [CoderDojo Saint Cloud][]
- 1. [CoderDojo Southern Minnesota][] (Rochester, MN area)
- 1. [Katie CoderDojo][] (All-girls CoderDojo in Saint Paul, MN)
- 1. [Northfield CoderDojo][]
- 1. [Southwest CoderDojo][] (Southwest Minneapolis, MN)
- 1. [Tonka CoderDojo][] (Minnetonka, MN)
+> **This repository is for new and returning [CoderDojoTC][] mentors.   
+> [Learn more about CoderDojoTC](http://www.coderdojotc.org/about/) on [our website.][CoderDojoTC]**
 
 [CoderDojoTC]: http://www.coderdojotc.org
-[CoderDojo Saint Cloud]: http://coderdojominnesota.org/
-[Katie CoderDojo]: https://www2.stkate.edu/ncsee
-[Tonka CoderDojo]: http://tonkacd.org/
-[Southwest CoderDojo]: https://zen.coderdojo.com/dojo/1262
-[Northfield CoderDojo]: https://zen.coderdojo.com/dojo/1263
-[CoderDojo Southern Minnesota]: http://www.coderdojosomn.org/
 
 ## General Resources
  - [CoderDojoTC website][CoderDojoTC]
+     - [**About, history, and values**](http://www.coderdojotc.org/about/)
      - [**Frequently Asked Questions** for mentors](http://www.coderdojotc.org/faq/#mentoring)
  - [Tips on **mentoring kids**](https://github.com/CoderDojoTC/mentor-resources/wiki/Tips-for-Mentoring-Kids)
- - [CoderDojoTC **event logistics**](https://github.com/CoderDojoTC/mentor-resources/wiki/Info-on-CoderDojoTC-events) --- timing, internet access, loaner laptops, mentor backup, etc. (work in progress)
- - [CoderDojoTC ReadTheDocs Index](http://coderdojotc.readthedocs.org/en/latest/): Top-level directory of all documentation created by CoderDojoTC volunteers using [Read the Docs](https://readthedocs.org).
+ - [CoderDojoTC **event logistics**](https://github.com/CoderDojoTC/mentor-resources/wiki/Info-on-CoderDojoTC-events)—timing, internet access, loaner laptops, mentor backup, etc. (work in progress)
+ - [CoderDojoTC on **ReadTheDocs**](http://coderdojotc.readthedocs.org/en/latest/)—Directory to all documentation created by CoderDojoTC volunteers using [Read the Docs](https://readthedocs.org).
 
-## Code Group Resources
+## For Code Groups
 
 Information specific to [CoderDojoTC code groups](http://www.coderdojotc.org/code_groups) are in the repositories listed below, and also in their respective wikis (accessed from the right-hand column of links). Some code groups have additional information nicely formatted using [Read the Docs](https://readthedocs.org/).
 
